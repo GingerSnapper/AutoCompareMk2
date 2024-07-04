@@ -1,0 +1,20 @@
+120 volt electricSwitch rated for 15 amps
+    Status = OFF
+120 volt electricSwitch rated for 15 amps
+    Status = ON with 0.07% load.
+120 volt electricSwitch rated for 15 amps
+    Status = ON with 0.10% load.
+120 volt electricSwitch rated for 15 amps
+    Status = ON with 0.10% load.
+120 volt electricSwitch rated for 15 amps
+    Status = OFF
+120 volt dimmerSwitch rated for 5 amps
+    Status = OFF
+120 volt dimmerSwitch rated for 5 amps
+    Status = 100% ON with 0.05% load.
+120 volt dimmerSwitch rated for 5 amps
+    Status = 100% ON with 0.15% load.
+120 volt dimmerSwitch rated for 5 amps
+    Status = 50% ON with 0.07% load.
+120 volt dimmerSwitch rated for 5 amps
+    Status = OFF
